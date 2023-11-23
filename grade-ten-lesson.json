@@ -1,5 +1,5 @@
 [
-  {
+    {
         "lessonNumber": "មេរៀនទី១",
         "lessonName": "អនុគមន៍ត្រីកោណមាត្រ",
         "lessonGroup": "ពីជគណិត",
@@ -10,5 +10,11 @@
         "lessonName": "វ៉ិចទ័រក្នុងលំហ",
         "lessonGroup": "ធរណីមាត្រ",
         "fileName": "grade-eleven-vectorinspace-exercise"
+    },
+  {
+        "lessonNumber": "មេរៀនទី១១",
+        "lessonName": "វ៉ិចទ័រក្នុងលំហ",
+        "lessonGroup": "ធរណីមាត្រ",
+        "fileName": "grade-eleven-vectorinspace-exercise-1"
     }
 ]
