@@ -1,20 +1,62 @@
 [
     {
-        "lessonNumber": "មេរៀនទី១",
-        "lessonName": "អនុគមន៍ត្រីកោណមាត្រ",
-        "lessonGroup": "ពីជគណិត",
-        "fileName": "grade-eleven-trigonometryfunction"
+        "lesson": "ចំនួន",
+        "file": "grade-ten-number"
     },
     {
-        "lessonNumber": "មេរៀនទី១០",
-        "lessonName": "វ៉ិចទ័រក្នុងលំហ",
-        "lessonGroup": "ធរណីមាត្រ",
-        "fileName": "grade-eleven-vectorinspace-exercise"
+        "lesson": "តក្កវិទ្យា",
+        "file": "grade-ten-logic"
     },
-  {
-        "lessonNumber": "មេរៀនទី១១",
-        "lessonName": "វ៉ិចទ័រក្នុងលំហ",
-        "lessonGroup": "ធរណីមាត្រ",
-        "fileName": "grade-eleven-vectorinspace-exercise-1"
+    {
+        "lesson": "ប្រព័ន្ធសមីការ និងសមីការដឺក្រេលំដាប់ខ្ពស់",
+        "file": "grade-ten-system-and-higher-degree-equation"
+    },
+    {
+        "lesson": "វិសមីការ",
+        "file": "grade-ten-inequation"
+    },
+    {
+        "lesson": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត",
+        "file": "grade-ten-quadratic-equation-exercise"
+    },
+    {
+        "lesson": "សំណុំ",
+        "file": "grade-ten-set"
+    },
+    {
+        "lesson": "អនុគមន៍ និងក្រាបនៃអនុគមន៍",
+        "file": "grade-ten-function"
+    },
+    {
+        "lesson": "អនុគមន៍ដឺក្រេទីពីរ និងក្រាប",
+        "file": "grade-ten-second-degree-function-and-graph"
+    },
+    {
+        "lesson": "អនុគមន៍សនិទាន និងអនុគមន៍អសនិទាន",
+        "file": "grade-ten-rational-and-irrational-function"
+    },
+    {
+        "lesson": "កូអរដោនេនៃចំណុចក្នុងប្លង់",
+        "file": "grade-ten-coordinate-of-point-in-plan"
+    },
+    {
+        "lesson": "សមីការបន្ទាត់",
+        "file": "grade-ten-line-equation"
+    },
+    {
+        "lesson": "សមីការរង្វង់",
+        "file": "grade-ten-circle-equation"
+    },
+    {
+        "lesson": "វ៉ិចទ័រ និងប្រមាណវិធីលើវ៉ិចទ័រ",
+        "file": "grade-ten-vector"
+    },
+    {
+        "lesson": "ការអនុវត្តនៃវ៉ិចទ័រ",
+        "file": "grade-ten-application-of-vector"
+    },
+    {
+        "lesson": "ផលធៀបត្រីកោណមាត្រ",
+        "file": "grade-ten-trigonometry"
     }
 ]
