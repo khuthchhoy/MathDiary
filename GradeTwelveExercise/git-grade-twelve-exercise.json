@@ -1,8 +1,8 @@
 [
     {
-        "lessonNumber": "មេរៀនទី១",
-        "lessonName": "ចំនួនកុំផ្លិច",
-        "lessonGroup": "ពីជគណិត",
-        "fileName": "complex-exam.html"
+        "subject": "មេរៀនទី១",
+        "title": "ចំនួនកុំផ្លិច",
+        "releaseDate": "29-11-2023",
+        "html": "complex-exam.html"
     }
 ]
