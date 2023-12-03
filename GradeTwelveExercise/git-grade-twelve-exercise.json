@@ -10,14 +10,14 @@
         "id": 2,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី២",
-        "releaseDate": "19-12-2023",
+        "releaseDate": "19-12-2022",
         "html": "complex-exam.html"
     },
     {
         "id": 1,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី១",
-        "releaseDate": "29-1-2022",
+        "releaseDate": "29-1-2021",
         "html": "complex-exam.html"
     }
 ]
