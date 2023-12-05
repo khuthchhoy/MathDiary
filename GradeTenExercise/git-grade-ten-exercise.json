@@ -5,5 +5,12 @@
         "title": "វិញ្ញាសាទី១",
         "releaseDate": "2-11-2023",
         "html": "exam-1.html"
+    },
+    {
+        "id": 2,
+        "subject": "គណិតវិទ្យា",
+        "title": "វិញ្ញាសាទី២",
+        "releaseDate": "2-11-2023",
+        "html": "exam-2.html"
     }
 ]
