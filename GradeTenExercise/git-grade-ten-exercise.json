@@ -1,10 +1,17 @@
 [
     {
+        "id": 6,
+        "subject": "គណិតវិទ្យា",
+        "title": "សម្រាយបញ្ជាក់តាមសំណើផ្ទុយពីសម្មតិកម្ម",
+        "releaseDate": "12-12-2023",
+        "html": "grade-ten-contrapositive-proof.html"
+    },
+    {
         "id": 5,
         "subject": "គណិតវិទ្យា",
-        "title": "លំហាត់ស្រាយបញ្ជាក់ទី១",
+        "title": "សម្រាយបញ្ជាក់ដោយផ្ទាល់",
         "releaseDate": "6-12-2023",
-        "html": "grade-ten-proof-exercise-1.html"
+        "html": "grade-ten-direct-proof.html"
     },
     {
         "id": 4,
