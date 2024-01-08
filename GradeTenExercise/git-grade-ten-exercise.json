@@ -1,17 +1,24 @@
 [
     {
-        "id": 8,
+        "id": 9,
         "subject": "គណិតវិទ្យា",
         "title": "សមីការបន្ទាត់-១",
         "releaseDate": "4-1-2024",
         "html": "grade-ten-line-equation-exercise-1.html"
     },
     {
-        "id": 7,
+        "id": 8,
         "subject": "គណិតវិទ្យា",
         "title": "សំណុំ-១",
         "releaseDate": "21-12-2023",
         "html": "grade-ten-set-exercise-1.html"
+    },
+    {
+        "id": 7,
+        "subject": "គណិតវិទ្យា",
+        "title": "សម្រាយបញ្ជាក់តាមសំណើទ្វេលក្ខខណ្ឌ",
+        "releaseDate": "12-12-2023",
+        "html": "grade-ten-two-directions-proof.html"
     },
     {
         "id": 6,
