@@ -1,15 +1,22 @@
 [
     {
+        "id": 37,
+        "subject": "គណិតវិទ្យា",
+        "title": "ត្រៀមឆមាសទី២-១",
+        "releaseDate": "22-7-2024",
+        "html": "grade-ten-semester-two-exercise-1.html"
+    },
+    {
         "id": 36,
         "subject": "គណិតវិទ្យា",
-        "title": "អនុគមន៍សនិទាន និងអសនិទាន",
+        "title": "អនុគមន៍សនិទាន និងអសនិទាន-៣",
         "releaseDate": "17-7-2024",
         "html": "grade-ten-rational-and-irrational-function-exercise-3.html"
     },
     {
         "id": 35,
         "subject": "គណិតវិទ្យា",
-        "title": "អនុគមន៍សនិទាន និងអសនិទាន",
+        "title": "អនុគមន៍សនិទាន និងអសនិទាន-២",
         "releaseDate": "11-7-2024",
         "html": "grade-ten-rational-and-irrational-function-exercise-2.html"
     },
@@ -44,7 +51,7 @@
     {
         "id": 30,
         "subject": "គណិតវិទ្យា",
-        "title": "អនុគមន៍សនិទាន និងអសនិទាន",
+        "title": "អនុគមន៍សនិទាន និងអសនិទាន-១",
         "releaseDate": "27-6-2024",
         "html": "grade-ten-rational-and-irrational-function-exercise-1.html"
     },
