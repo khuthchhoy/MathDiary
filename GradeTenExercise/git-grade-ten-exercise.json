@@ -2,336 +2,384 @@
     {
         "id": 52,
         "subject": "គណិតវិទ្យា",
-        "title": "អនុគមន៍ដឺក្រេទី២-១",
+        "title": "វិញ្ញាសាទី៥២",
+        "detail": "អនុគមន៍ដឺក្រេទី២",
         "releaseDate": "21-5-2025",
         "html": "grade-ten-quadratic-function-exercise-1.html"
     },
     {
         "id": 51,
         "subject": "គណិតវិទ្យា",
-        "title": "វិញ្ញាសាខែឧសភា-១",
+        "title": "វិញ្ញាសាទី៥១",
+        "detail": "អនុគមន៍ ដែនកំណត់ ប្រព័ន្ធវិសមីការ រកតម្លៃប៉ារ៉ាម៉ែត្រ សមីការដឺក្រេទី២ វ៉ិចទ័រ",
         "releaseDate": "15-5-2025",
         "html": "grade-ten-may-exercise-1.html"
     },
     {
         "id": 50,
         "subject": "គណិតវិទ្យា",
-        "title": "វិញ្ញាសាខែមីនា-១",
+        "title": "វិញ្ញាសាទី៥០",
+        "detail": "ពហុធា ដោះស្រាយសមីការ ប្រមាណវិធីចែកពហុធា សមីការ ទ្រឹស្ដីបទកត្តា ទ្រឹស្ដីបទសំណល់",
         "releaseDate": "14-3-2025",
         "html": "grade-ten-march-exercise-1.html"
     },
     {
         "id": 49,
         "subject": "គណិតវិទ្យា",
-        "title": "ពហុធា-៣",
+        "title": "វិញ្ញាសាទី៤៩",
+        "detail": "ពហុធា",
         "releaseDate": "17-1-2025",
         "html": "grade-ten-polynomial-exercise-3.html"
     },
     {
         "id": 48,
         "subject": "គណិតវិទ្យា",
-        "title": "រំលឹកឆមាស១",
+        "title": "វិញ្ញាសាទី៤៨",
+        "detail": "ឆមាសទី១ វិសមភាព ឫសការេ សមីការរង្វង់ សម្រួលកន្សោមស្វ័យគុណ",
         "releaseDate": "15-1-2025",
         "html": "grade-ten-review-semester-1-exercise-1.html"
     },
     {
         "id": 47,
         "subject": "គណិតវិទ្យា",
-        "title": "ចំនួន-៣",
+        "title": "វីញ្ញាសាទី៤៧",
+        "detail": "ចំនួន សម្រួលឫសការេ",
         "releaseDate": "26-12-2024",
         "html": "grade-ten-number-exercise-3.html"
     },
     {
         "id": 46,
         "subject": "គណិតវិទ្យា",
-        "title": "សំណុំ-២",
+        "title": "វិញ្ញាសាទី៤៦",
+        "detail": "សំណុំ ចំណោទសំណុំ",
         "releaseDate": "13-12-2024",
         "html": "grade-ten-set-exercise-2.html"
     },
     {
         "id": 45,
         "subject": "គណិតវិទ្យា",
-        "title": "លំហាត់១-កូអរដោនេនៃចំណុចក្នុងប្លង់",
+        "title": "វីញ្ញាសាទី៤៥",
+        "detail": "កូអរដោនេនៃចំណុចក្នុងប្លង់",
         "releaseDate": "6-11-2024",
         "html": "grade-ten-coordinates-in-plane-exercise-1.html"
     },
     {
         "id": 44,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-៨",
+        "title": "វិញ្ញាសាទី៤៤",
+        "detail": "ឆមាសទី២ ផលធៀបត្រីកោណមាត្រ គណនាតម្លៃអនុគមន៍ វ៉ិចទ័រ ចំនួនកុំផ្លិច ទ្រឹស្ដីបទកត្តា ទ្រឹស្ដីបទសំណល់",
         "releaseDate": "20-8-2024",
         "html": "grade-ten-semester-two-exercise-8.html"
     },
     {
         "id": 43,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-៧",
+        "title": "វិញ្ញាសាទី៤៣",
+        "detail": "ឆមាសទី២ ផលធៀបត្រីកោណមាត្រ ស្រាយបញ្ជាក់ ការអនុវត្តនៃវ៉ិចទ័រ សមីការប៉ារ៉ាម៉ែត្រនៃបន្ទាត់ អនុគមន៍សនិទាន",
         "releaseDate": "15-8-2024",
         "html": "grade-ten-semester-two-exercise-7.html"
     },
     {
         "id": 42,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-៦",
+        "title": "វិញ្ញាសាទី៤២",
+        "detail": "ឆមាសទី២ ចំនួនកុំផ្លិច បន្សំ វ៉ិចទ័រ",
         "releaseDate": "13-8-2024",
         "html": "grade-ten-semester-two-exercise-6.html"
     },
     {
         "id": 41,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-៥",
+        "title": "វិញ្ញាសាទី៤១",
+        "detail": "ឆមាសទី២ ចំនួនកុំផ្លិច អនុគមន៍សនិទាន",
         "releaseDate": "8-8-2024",
         "html": "grade-ten-semester-two-exercise-5.html"
     },
     {
         "id": 40,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-៤",
+        "title": "វិញ្ញាសាទី៤០",
+        "detail": "ឆមាសទី២ ប៉ារ៉ាបូល អនុគមន៍ដឺក្រេទី២ សមីការ ចំនួនកុំផ្លិច សម្រួលកន្សោម",
         "releaseDate": "6-8-2024",
         "html": "grade-ten-semester-two-exercise-4.html"
     },
     {
         "id": 39,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-៣",
+        "title": "វិញ្ញាសាទី៣៩",
+        "detail": "ឆមាសទី២ សមីការ វិសមីការ បន្សំ",
         "releaseDate": "1-8-2024",
         "html": "grade-ten-semester-two-exercise-3.html"
     },
     {
         "id": 38,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-២",
+        "title": "វិញ្ញាសាទី៣៨",
+        "detail": "ឆមាសទី២ សង់ក្រាប ដែនកំណត់ ប្រព័ន្ធសមីការ បន្ទាត់និងរង្វង់ សមីការ វ៉ិចទ័រ",
         "releaseDate": "29-7-2024",
         "html": "grade-ten-semester-two-exercise-2.html"
     },
     {
         "id": 37,
         "subject": "គណិតវិទ្យា",
-        "title": "ត្រៀមឆមាសទី២-១",
+        "title": "វិញ្ញាសាទី៣៧",
+        "detail": "ឆមាសទី២ សមីការ វិសមីការ ប្រព័ន្ធសមីការ អនុគមន៍ដឺក្រេទី២ ទ្រឹស្ដីបទកត្តា",
         "releaseDate": "22-7-2024",
         "html": "grade-ten-semester-two-exercise-1.html"
     },
     {
         "id": 36,
         "subject": "គណិតវិទ្យា",
-        "title": "អនុគមន៍សនិទាន និងអសនិទាន-៣",
+        "title": "វិញ្ញាសាទី៣៦",
+        "detail": "អនុគមន៍សនិទាន និងអសនិទាន",
         "releaseDate": "17-7-2024",
         "html": "grade-ten-rational-and-irrational-function-exercise-3.html"
     },
     {
         "id": 35,
         "subject": "គណិតវិទ្យា",
-        "title": "អនុគមន៍សនិទាន និងអសនិទាន-២",
+        "title": "វិញ្ញាសាទី៣៥",
+        "detail": "អនុគមន៍សនិទាន និងអសនិទាន",
         "releaseDate": "11-7-2024",
         "html": "grade-ten-rational-and-irrational-function-exercise-2.html"
     },
     {
         "id": 34,
         "subject": "គណិតវិទ្យា",
-        "title": "ចម្លាស់-១",
+        "title": "វិញ្ញាសាទី៣៤",
+        "detail": "ចម្លាស់",
         "releaseDate": "11-7-2024",
         "html": "grade-ten-permutions-exercise-1.html"
     },
     {
         "id": 33,
         "subject": "គណិតវិទ្យា",
-        "title": "ការអនុវត្តនៃវ៉ិចទ័រ-២",
+        "title": "វិញ្ញាសាទី៣៣",
+        "detail": "ការអនុវត្តនៃវ៉ិចទ័រ",
         "releaseDate": "8-7-2024",
         "html": "grade-ten-vector-practice-exercise-2.html"
     },
     {
         "id": 32,
         "subject": "គណិតវិទ្យា",
-        "title": "លំហាត់អនុគមន៍សារឡើងវិញ",
+        "title": "វិញ្ញាសាទី៣២",
+        "detail": "ដែនកំណត់ អនុគមន៍ច្រាស អនុគមន៍សនិទាន ប៉ារ៉ាបូល",
         "releaseDate": "1-7-2024",
         "html": "grade-ten-function-review-exercise-1.html"
     },
     {
         "id": 31,
         "subject": "គណិតវិទ្យា",
-        "title": "ការអនុវត្តនៃវ៉ិចទ័រ-១",
+        "title": "វិញ្ញាសាទី៣១",
+        "detail": "ការអនុវត្តនៃវ៉ិចទ័រ",
         "releaseDate": "27-6-2024",
         "html": "grade-ten-vector-practice-exercise-1.html"
     },
     {
         "id": 30,
         "subject": "គណិតវិទ្យា",
-        "title": "អនុគមន៍សនិទាន និងអសនិទាន-១",
+        "title": "វិញ្ញាសាទី៣០",
+        "detail": "អនុគមន៍សនិទាន និងអសនិទាន",
         "releaseDate": "27-6-2024",
         "html": "grade-ten-rational-and-irrational-function-exercise-1.html"
     },
     {
         "id": 29,
         "subject": "គណិតវិទ្យា",
-        "title": "វ៉ិចទ័រ-២",
+        "title": "វិញ្ញាសាទី២៩",
+        "detail": "វ៉ិចទ័រ",
         "releaseDate": "13-6-2024",
         "html": "grade-ten-vector-exercise-2.html"
     },
     {
         "id": 28,
         "subject": "គណិតវិទ្យា",
-        "title": "លំហាត់សារឡើងវិញ-២",
+        "title": "វិញ្ញាសាទី២៨",
+        "detail": "សមីការ",
         "releaseDate": "20-5-2024",
         "html": "grade-ten-review-exercise-2.html"
     },
     {
         "id": 27,
         "subject": "គណិតវិទ្យា",
-        "title": "លំហាត់សារឡើងវិញ-១",
+        "title": "វិញ្ញាសាទី២៧",
+        "detail": "សមីការ វិសមីការ",
         "releaseDate": "15-5-2024",
         "html": "grade-ten-review-exercise-1.html"
     },
     {
         "id": 26,
         "subject": "គណិតវិទ្យា",
-        "title": "វ៉ិចទ័រ-១",
+        "title": "វិញ្ញាសាទី២៦",
+        "detail": "វ៉ិចទ័រ",
         "releaseDate": "13-5-2024",
         "html": "grade-ten-vector-exercise-1.html"
     },
     {
         "id": 25,
         "subject": "គណិតវិទ្យា",
-        "title": "វិសមីការ-១",
+        "title": "វិញ្ញាសាទី២៥",
+        "detail": "វិសមីការ",
         "releaseDate": "30-4-2024",
         "html": "grade-ten-inequation-exercise-1.html"
     },
     {
         "id": 24,
         "subject": "គណិតវិទ្យា",
-        "title": "ប្រព័ន្ធសមីការ-១",
+        "title": "វិញ្ញាសាទី២៤",
+        "detail": "ប្រព័ន្ធសមីការ",
         "releaseDate": "19-3-2024",
         "html": "grade-ten-system-equation-exercise-1.html"
     },
     {
         "id": 23,
         "subject": "គណិតវិទ្យា",
-        "title": "ផលធៀបត្រីកោណមាត្រ-១",
+        "title": "វិញ្ញាសាទី២៣",
+        "detail": "ផលធៀបត្រីកោណមាត្រ",
         "releaseDate": "14-3-2024",
         "html": "grade-ten-trigonometry-ratio-exercise-1.html"
     },
     {
         "id": 22,
         "subject": "គណិតវិទ្យា",
-        "title": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត-៥",
+        "title": "វិញ្ញាសាទី២២",
+        "detail": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត",
         "releaseDate": "12-3-2024",
         "html": "grade-ten-second-degree-equation-exercise-5.html"
     },
     {
         "id": 21,
         "subject": "គណិតវិទ្យា",
-        "title": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត-៤",
+        "title": "វិញ្ញាសាទី២១",
+        "detail": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត",
         "releaseDate": "29-2-2024",
         "html": "grade-ten-second-degree-equation-exercise-4.html"
     },
     {
         "id": 20,
         "subject": "គណិតវិទ្យា",
-        "title": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត-៣",
+        "title": "វិញ្ញាសាទី២០",
+        "detail": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត",
         "releaseDate": "27-2-2024",
         "html": "grade-ten-second-degree-equation-exercise-3.html"
     },
     {
         "id": 19,
         "subject": "គណិតវិទ្យា",
-        "title": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត-២",
+        "title": "វិញ្ញាសាទី១៩",
+        "detail": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត",
         "releaseDate": "22-2-2024",
         "html": "grade-ten-second-degree-equation-exercise-2.html"
     },
     {
         "id": 18,
         "subject": "គណិតវិទ្យា",
-        "title": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត-១",
+        "title": "វិញ្ញាសាទី១៨",
+        "detail": "សមីការដឺក្រេទីពីរមានមួយអញ្ញាត",
         "releaseDate": "13-2-2024",
         "html": "grade-ten-second-degree-equation-exercise-1.html"
     },
     {
         "id": 17,
         "subject": "គណិតវិទ្យា",
-        "title": "ប្រមាណវិធីចែកពហុធា-៤",
+        "title": "វិញ្ញាសាទី១៧",
+        "detail": "ប្រមាណវិធីចែកពហុធា",
         "releaseDate": "8-2-2024",
         "html": "grade-ten-polynomial-division-exercise-4.html"
     },
     {
         "id": 16,
         "subject": "គណិតវិទ្យា",
-        "title": "ប្រមាណវិធីចែកពហុធា-៣",
+        "title": "វិញ្ញាសាទី១៦",
+        "detail": "ប្រមាណវិធីចែកពហុធា",
         "releaseDate": "8-2-2024",
         "html": "grade-ten-polynomial-division-exercise-3.html"
     },
     {
         "id": 15,
         "subject": "គណិតវិទ្យា",
-        "title": "ប្រមាណវិធីចែកពហុធា-២",
+        "title": "វិញ្ញាសាទី១៥",
+        "detail": "ប្រមាណវិធីចែកពហុធា",
         "releaseDate": "6-2-2024",
         "html": "grade-ten-polynomial-division-exercise-2.html"
     },
     {
         "id": 14,
         "subject": "គណិតវិទ្យា",
-        "title": "ប្រមាណវិធីចែកពហុធា-១",
+        "title": "វិញ្ញាសាទី១៤",
+        "detail": "ប្រមាណវិធីចែកពហុធា",
         "releaseDate": "29-1-2024",
         "html": "grade-ten-polynomial-division-exercise-1.html"
     },
     {
         "id": 13,
         "subject": "គណិតវិទ្យា",
-        "title": "ពហុធា-២",
+        "title": "វិញ្ញាសាទី១៣",
+        "detail": "ពហុធា",
         "releaseDate": "25-1-2024",
         "html": "grade-ten-polynomial-exercise-2.html"
     },
     {
         "id": 12,
         "subject": "គណិតវិទ្យា",
-        "title": "ពហុធា-១",
+        "title": "វិញ្ញាសាទី១២",
+        "detail": "ពហុធា",
         "releaseDate": "22-1-2024",
         "html": "grade-ten-polynomial-exercise-1.html"
     },
     {
         "id": 11,
         "subject": "គណិតវិទ្យា",
-        "title": "ចំនួន-២",
+        "title": "វិញ្ញាសាទី១១",
+        "detail": "ចំនួន",
         "releaseDate": "18-1-2024",
         "html": "grade-ten-number-exercise-2.html"
     },
     {
         "id": 10,
         "subject": "គណិតវិទ្យា",
-        "title": "ចំនួន-១",
+        "title": "វិញ្ញាសាទី១០",
+        "detail": "ចំនួន",
         "releaseDate": "15-1-2024",
         "html": "grade-ten-number-exercise-1.html"
     },
     {
         "id": 9,
         "subject": "គណិតវិទ្យា",
-        "title": "សមីការបន្ទាត់-១",
+        "title": "វិញ្ញាសាទី៩",
+        "detail": "សមីការបន្ទាត់",
         "releaseDate": "4-1-2024",
         "html": "grade-ten-line-equation-exercise-1.html"
     },
     {
         "id": 8,
         "subject": "គណិតវិទ្យា",
-        "title": "សំណុំ-១",
+        "title": "វិញ្ញាសាទី៨",
+        "detail": "សំណុំ",
         "releaseDate": "21-12-2023",
         "html": "grade-ten-set-exercise-1.html"
     },
     {
         "id": 7,
         "subject": "គណិតវិទ្យា",
-        "title": "សម្រាយបញ្ជាក់តាមសំណើទ្វេលក្ខខណ្ឌ",
+        "title": "វិញ្ញាសាទី៧",
+        "detail": "តក្កវិទ្យា សម្រាយបញ្ជាក់តាមសំណើទ្វេលក្ខខណ្ឌ",
         "releaseDate": "12-12-2023",
         "html": "grade-ten-two-directions-proof.html"
     },
     {
         "id": 6,
         "subject": "គណិតវិទ្យា",
-        "title": "សម្រាយបញ្ជាក់តាមសំណើផ្ទុយពីសម្មតិកម្ម",
+        "title": "វិញ្ញាសាទី៦",
+        "detail": "តក្កវិទ្យា សម្រាយបញ្ជាក់តាមសំណើផ្ទុយពីសម្មតិកម្ម",
         "releaseDate": "12-12-2023",
         "html": "grade-ten-contrapositive-proof.html"
     },
     {
         "id": 5,
         "subject": "គណិតវិទ្យា",
-        "title": "សម្រាយបញ្ជាក់ដោយផ្ទាល់",
+        "title": "វិញ្ញាសាទី៥",
+        "detail": "តក្កវិទ្យា សម្រាយបញ្ជាក់ដោយផ្ទាល់",
         "releaseDate": "6-12-2023",
         "html": "grade-ten-direct-proof.html"
     },
@@ -339,6 +387,7 @@
         "id": 4,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី៤",
+        "detail": "ពហុធា ប្រមាណវិធីចែកពហុធា សមីការរង្វង់",
         "releaseDate": "2-11-2023",
         "html": "grade-ten-exam-4.html"
     },
@@ -346,6 +395,7 @@
         "id": 3,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី៣",
+        "detail": "ពហុធា ប្រមាណវិធីចែកពហុធា សមីការរង្វង់",
         "releaseDate": "2-11-2023",
         "html": "grade-ten-exam-3.html"
     },
@@ -353,6 +403,7 @@
         "id": 2,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី២",
+        "detail": "តក្កវិទ្យា សំណុំ កូអរដោនេនៃចំណុច",
         "releaseDate": "2-11-2023",
         "html": "grade-ten-exam-2.html"
     },
@@ -360,6 +411,7 @@
         "id": 1,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី១",
+        "detail": "តក្កវិទ្យា សំណុំ កូអរដោនេនៃចំណុច",
         "releaseDate": "2-11-2023",
         "html": "grade-ten-exam-1.html"
     }
