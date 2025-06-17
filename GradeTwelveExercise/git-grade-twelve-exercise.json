@@ -3,6 +3,7 @@
         "id": 4,
         "subject": "គណិតវិទ្យា",
         "title": "សមីការឌីផេរ៉ង់ស្យែល",
+        "detail": "",
         "releaseDate": "8-03-2024",
         "html": "grade-twelve-differential-equation-exercise-1.html"
     },
@@ -10,6 +11,7 @@
         "id": 3,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី៣",
+        "detail": "",
         "releaseDate": "2-11-2023",
         "html": "complex-exam.html"
     },
@@ -17,6 +19,7 @@
         "id": 2,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី២",
+        "detail": "",
         "releaseDate": "19-12-2023",
         "html": "complex-exam.html"
     },
@@ -24,6 +27,7 @@
         "id": 1,
         "subject": "គណិតវិទ្យា",
         "title": "វិញ្ញាសាទី១",
+        "detail": "",
         "releaseDate": "29-1-2022",
         "html": "complex-exam.html"
     }
