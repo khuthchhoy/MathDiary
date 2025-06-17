@@ -3,6 +3,7 @@
         "id": 2,
         "subject": "គណិតវិទ្យា",
         "title": "សាឡើងវិញ-២",
+        "detail": "",
         "releaseDate": "29-5-2025",
         "html": "grade-eight-review-exercise-2.html"
     },
@@ -10,6 +11,7 @@
         "id": 1,
         "subject": "គណិតវិទ្យា",
         "title": "សាឡើងវិញ-១",
+        "detail": "",
         "releaseDate": "27-5-2025",
         "html": "grade-eight-review-exercise-1.html"
     }
